@@ -24,7 +24,7 @@
           <plugin>
               <groupId>org.codehaus.cargo</groupId>
               <artifactId>cargo-maven2-plugin</artifactId>
-                <version>1.4.12</version>
+                <version>1.2.3</version>
                 <configuration>
                     <container>
                           <!-- 指明使用的tomcat服务器版本 -->
